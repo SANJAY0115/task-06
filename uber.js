@@ -30,3 +30,6 @@ customer1.setdistance(10);
 console.log(customer1.getrideDetails());
 console.log(customer1.getprice());
 
+// output:
+//No of kilometers = 10 km,  rate/km = 20 re , waiting period = 1 hour 
+//the price of ride is 250 rupees
